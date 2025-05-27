@@ -5,7 +5,7 @@ Research Question:
 How accurately can we  predict Bitcoin’s daily closing price one month  ahead using various models , and how do they compare to the actual forecast?
 
 Motivation:
-Bitcoin’s pronounced volatility and rapid regime shifts make it an ideal test case for evaluating forecasting techniques. By combining both classical statistical approaches (ARIMA, Holt–Winters, Theta) and a modern, user-friendly framework (Prophet), this project aims to:
+Bitcoin’s pronounced volatility and rapid regime shifts make it an ideal test case for evaluating forecasting techniques. By combining both classical statistical approaches and a modern, user-friendly framework (Prophet), this project aims to:
 
 Data Sources:
 Binance (via ccxt) Daily OHLCV (“Open/High/Low/Close/Volume”) for BTC/USDT.
